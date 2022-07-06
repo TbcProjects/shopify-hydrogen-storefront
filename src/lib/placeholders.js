@@ -18,7 +18,7 @@ const PLACEHOLDERS = {
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
+            url: 'https://cdn.shopify.com/s/files/1/0096/3503/7247/files/BIKE_CLUB_002.png?v=1656428849',
             width: 2500,
             height: 3155,
           },
@@ -33,7 +33,7 @@ const PLACEHOLDERS = {
           },
           id: 'gid://shopify/MediaImage/29259478499384',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_2.jpg?v=1654902468',
+            url: 'https://cdn.shopify.com/s/files/1/0096/3503/7247/files/7916_helm_forest_003.jpg?v=1656404725',
             width: 2500,
             height: 3155,
           },
