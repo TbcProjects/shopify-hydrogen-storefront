@@ -60,6 +60,7 @@ export function Hero({
           {heading?.value && (
             <Heading format as="h2" size="display" className="max-w-md">
               {heading.value}
+              Hardcoded text
             </Heading>
           )}
           {byline?.value && (
